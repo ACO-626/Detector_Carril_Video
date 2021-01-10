@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detector_Carril_Video", "Detector_Carril_Video.csproj", "{713B0365-50D9-41C5-A5E4-55791F58191B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713B0365-50D9-41C5-A5E4-55791F58191B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713B0365-50D9-41C5-A5E4-55791F58191B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713B0365-50D9-41C5-A5E4-55791F58191B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713B0365-50D9-41C5-A5E4-55791F58191B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A234A5A-C9BD-4B51-BB20-ED62527D1373}
+	EndGlobalSection
+EndGlobal
